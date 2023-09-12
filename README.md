@@ -1,6 +1,15 @@
 # Classes em Java - B3
-Resolução do trabalho elaborado pelo professor Ricardo Petri
+Resolução do trabalho elaborado pelo professor Ricardo Petri <br/>
+#
 
+### -- Versão 2.0 -- <br/>
+- A classe "Pessoa" agora é um classe abstrata;
+- A classe "Funcionário" agora é uma interface, que faz parte das classes "Cozinheiro", "Garçom", "Caixa" e "Pessoa";
+- O sistema possui uma nova funcionalidade: Saldo. O cliente inicia com  500 reais e vai se subtraindo conforme o cliente paga a comanda. Caso o cliente não tenha saldo o suficiente para pagar a comanda, ele é convidado a se retirar do restaurante. O usuário também pode conferir o seu saldo utilizando a tecla 6;
+
+#
+
+### -- Versão 1.0 --
 ## Execução do Código
 - Quando o código é executado, o programa apresenta o nome do restaurante e pede o nome do usuário (cliente); <br/>
 - O programa então envia um menu de opções ao cliente, sendo elas: <br/>
