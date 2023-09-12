@@ -1,4 +1,4 @@
-public class Caixa implements Funcionario {
+public class Caixa extends pessoa implements Funcionario {
     private int totalVendas;
     private float caixaRestaurante;
     private String cargo;
