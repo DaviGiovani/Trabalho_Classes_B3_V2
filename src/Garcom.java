@@ -1,4 +1,4 @@
-public class Garcom implements Funcionario {
+public class Garcom extends Pessoa implements Funcionario {
     private int mesasAtendidas;
     private float gorjeta;
     private String cargo;
