@@ -4,7 +4,7 @@ Resolução do trabalho elaborado pelo professor Ricardo Petri <br/>
 
 ### -- Versão 2.0 -- <br/>
 - A classe "Pessoa" agora é um classe abstrata;
-- A classe "Funcionário" agora é uma interface, que faz parte das classes "Cozinheiro", "Garçom", "Caixa" e "Pessoa";
+- A classe "Funcionário" agora é uma interface, que faz parte das classes "Cozinheiro", "Garçom" e "Caixa";
 - O sistema possui uma nova funcionalidade: Saldo. O cliente inicia com  500 reais e vai se subtraindo conforme o cliente paga a comanda. Caso o cliente não tenha saldo o suficiente para pagar a comanda, ele é convidado a se retirar do restaurante. O usuário também pode conferir o seu saldo utilizando a tecla 6;
 
 #
