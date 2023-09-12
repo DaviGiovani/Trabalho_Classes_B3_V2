@@ -1,4 +1,4 @@
-public abstract class Pessoa implements Funcionario {
+public abstract class Pessoa {
     private String nome;
     private int idade;
     private String cargo;
