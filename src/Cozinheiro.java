@@ -1,4 +1,4 @@
-public class Cozinheiro implements Funcionario {
+public class Cozinheiro extends Pessoa implements Funcionario {
     private int pratosPreparados;
     private String cargo;
     private float salario;
